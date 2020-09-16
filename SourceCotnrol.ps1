@@ -1,1 +1,1 @@
-Wrote-host "Compliant in Github"
+Write-host "Compliant in Github"
